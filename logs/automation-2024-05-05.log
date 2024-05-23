@@ -1,0 +1,40 @@
+09:01:58.214 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:01:58.231 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:01:58.233 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:01:58.302 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:01:58.304 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:01:58.309 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:01:58.345 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:01:58.346 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:01:58.348 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:01:58.385 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:01:58.386 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:01:58.387 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:01:58.429 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+09:01:58.430 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+09:01:58.432 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+09:56:56.144 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+09:56:56.967 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+09:56:56.968 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+09:56:58.475 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+09:57:08.513 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationPage - test failed
+09:57:23.357 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+09:57:23.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+09:57:23.780 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+09:57:25.336 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+09:57:35.396 [TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationPage - test failed
+09:57:47.818 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+09:57:48.229 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+09:57:48.229 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+09:57:49.661 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+09:57:50.932 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+09:57:50.932 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+09:57:50.937 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+10:01:21.115 [main] INFO  testCases.TC_002_LoginTest - *******  Starting TC_002_LoginTest  ********
+10:01:21.301 [main] INFO  testCases.TC_002_LoginTest - ****   clicked on Signing button   ***
+10:01:21.303 [main] INFO  testCases.TC_002_LoginTest - **** providing valid details for logging ****
+10:01:31.803 [main] INFO  testCases.TC_002_LoginTest - Login test failed....
+10:03:26.153 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+10:03:26.672 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+10:03:26.672 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+10:03:28.090 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........

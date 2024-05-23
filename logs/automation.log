@@ -1,0 +1,42 @@
+22:58:45.748 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+22:58:46.268 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+22:58:46.269 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+22:58:47.926 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+22:58:50.321 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+22:58:50.324 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+22:58:50.326 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+07:39:53.229 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+07:39:54.826 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+07:39:54.826 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+07:39:56.496 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+07:39:57.967 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+07:39:57.967 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+07:39:57.971 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+18:56:07.006 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+18:56:07.482 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+18:56:07.482 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+18:56:09.281 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+18:56:10.447 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+18:56:10.447 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+18:56:10.450 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+19:04:49.879 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+19:04:50.711 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+19:04:50.711 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+19:04:52.432 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+19:04:53.717 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+19:04:53.717 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+19:04:53.722 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+19:05:15.035 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+19:05:15.471 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+19:05:15.471 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+19:05:17.272 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+19:05:18.324 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+19:05:18.324 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+19:05:18.327 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+19:10:10.565 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+19:10:11.174 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+19:10:11.174 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+19:10:12.896 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+19:10:14.146 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+19:10:14.146 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+19:10:14.149 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****

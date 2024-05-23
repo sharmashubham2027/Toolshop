@@ -1,0 +1,42 @@
+<suite name="Suite">
+	
+	<listners>
+		<listner class-name="utilities.ExtentReportManager"/>
+	</listners>
+	
+	
+	<test thread-count="5" name="Test">
+		
+		<parameter name="os" value="Windows"/>
+		<parameter name="browser" value="chrome"/>
+		
+	
+	<groups>
+		<run>
+		<!--	<include name = "sanity"/> -->
+			<include name = "regression"/>
+		<!--	<include name = "master"/>
+			<exclude name = ""/>	-->
+		</run>
+	</groups>	
+				
+	<classes>
+		
+		 	  <class name="testCases.TC_001_AccountRegistrationPage"/>	 
+		 	<class name="testCases.TC_003_LoginDDT"/>	
+		       <class name="testCases.TC_002_LoginTest"/>	 
+		
+	</classes>
+	</test>
+	
+	
+<!--  Test  -->
+<!--   <test name="Test1"> 
+	  <parameter name="os" value="Windows"/>
+	  <parameter name="browser" value="edge"/> 
+    <classes>
+      <class name="testCases.TC_001_AccountRegistrationPage"/>
+    </classes>
+  </test>   -->
+</suite>
+<!--  Suite  -->

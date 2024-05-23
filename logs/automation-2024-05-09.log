@@ -1,0 +1,47 @@
+10:03:38.115 [main] ERROR testCases.TC_001_AccountRegistrationPage - test failed
+10:03:51.960 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+10:03:52.409 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+10:03:52.410 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+10:03:53.925 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+10:04:03.972 [main] ERROR testCases.TC_001_AccountRegistrationPage - test failed
+10:04:13.404 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+10:04:13.822 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+10:04:13.822 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+10:04:15.267 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+10:04:16.534 [main] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+10:04:16.534 [main] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+10:04:16.538 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+20:14:31.596 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+20:14:32.031 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+20:14:32.031 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+20:14:33.677 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+20:14:35.357 [main] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+20:14:35.357 [main] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+20:14:35.361 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+20:20:03.825 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+20:20:04.225 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+20:20:04.225 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+20:20:05.981 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+20:20:16.050 [main] ERROR testCases.TC_001_AccountRegistrationPage - test failed
+20:26:47.076 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+20:26:47.550 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+20:26:47.550 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+20:26:49.236 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+20:26:50.823 [main] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+20:26:50.823 [main] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+20:26:50.828 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+20:30:38.790 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+20:30:39.241 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+20:30:39.241 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+20:30:41.057 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+20:30:42.487 [main] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+20:30:42.488 [main] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+20:30:42.491 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+20:38:27.424 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
+20:38:27.862 [main] INFO  testCases.TC_001_AccountRegistrationPage - **** Clicked on Register button *****
+20:38:27.862 [main] INFO  testCases.TC_001_AccountRegistrationPage - Entering customer details:
+20:38:29.575 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on register account after filling details.........
+20:38:31.304 [main] INFO  testCases.TC_001_AccountRegistrationPage - Validating expected message.....
+20:38:31.304 [main] INFO  testCases.TC_001_AccountRegistrationPage - Test Passed
+20:38:31.307 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****finished TC_001_AccountRegistrationTest ****
+20:54:04.997 [main] INFO  testCases.TC_001_AccountRegistrationPage - *****starting TC_001_AccountRegistrationTest    ******
